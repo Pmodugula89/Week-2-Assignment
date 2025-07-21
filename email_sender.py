@@ -16,7 +16,7 @@ def send_email(report_path):
     with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
         smtp.login(os.getenv("EMAIL_USER"), os.getenv("EMAIL_PASS"))
         smtp.send_message(msg)	
-🔹 .env
+  .env
 EMAIL_USER=your_email@example.com
 EMAIL_PASS=your_password
 EMAIL_RECEIVER=receiver@example.com
