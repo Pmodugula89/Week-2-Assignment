@@ -31,7 +31,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-iz.pro")
+(iz.pro")
 from fpdf import FPDF
 import os
 
