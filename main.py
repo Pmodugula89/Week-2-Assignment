@@ -72,3 +72,4 @@ EMAIL_RECEIVER=receiver@example.com
 pandas
 fpdf
 python-dotenv
+
