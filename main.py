@@ -2,7 +2,7 @@
 # Write Python 3 code in this online editor and run it.
 print("Starting program")
 from data_fetch import fetch_data
-#E999 SyntaxError: invalid character '' (U+1F539)
+#E999 SyntaxError: invalid character ' ' (U+1F539)
 from report_generator import generate_pdf_report
 from email_sende
 import pandas as pd
