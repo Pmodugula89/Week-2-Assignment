@@ -3,7 +3,7 @@
 from data_fetch import fetch_data
 
 print("Try program")
-E999 SyntaxError: invalid character '🔹' (U+1F539)
+E999 SyntaxError: invalid character '' (U+1F539)
 from report_generator import generate_pdf_report
 from email_sende
 import pandas as pd
