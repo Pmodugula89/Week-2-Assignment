@@ -1,4 +1,6 @@
+# data_fetch.py
 import pandas as pd
+
 def fetch_data():
     # Simulate pulling data from gaming platform
     data = pd.DataFrame({
